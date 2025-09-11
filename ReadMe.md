@@ -21,9 +21,13 @@ Link : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ### 3- Data Preprocessing
 3.1) Drop irrelevant columns 
+
 3.2) Handle Missing data 
+
 3.3) Convert categorical data from (Yes or No) --> (0 or 1)
+
 3.4) Apply one-hot code for multi category features
+
 3.5) Scale numerical features using StandardScaler
 ### 4- Feature Analysis
 4.1) Check churn rate by each feature using groupby (churn_precentage() function)
